@@ -69,10 +69,25 @@ Aprimorando meus conhecimentos em desenvolvimento de software através do DevClu
 
 ## 📊 Estatísticas do GitHub
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luisfelipe207&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipe207&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 ## 📫 Vamos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-ferreira-141a6a216/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luisfelipe207)
-[![E-mail](https://img.shields.io/badge/-E-mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felipeferreira2003nh@gmail.com)
