@@ -67,7 +67,7 @@ Aprimorando meus conhecimentos em desenvolvimento de software através do DevClu
 <br/>
 <br/>
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -86,6 +86,7 @@ Aprimorando meus conhecimentos em desenvolvimento de software através do DevClu
   />
 
 </p>
+
 
 <br/>
 <br/>
