@@ -87,6 +87,9 @@ Aprimorando meus conhecimentos em desenvolvimento de software através do DevClu
 
 </p>
 
+<br/>
+<br/>
+
 ## 📫 Vamos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-ferreira-141a6a216/)
