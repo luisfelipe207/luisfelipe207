@@ -1,23 +1,23 @@
 <div align="center">
-  <table>
+  <td>
     <tr>
       <td align="center" 
-          style="background-image: url('https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=1600'); 
+          style="background-image: url('https://images.pexels.com/photos/7479647/pexels-photo-7479647.jpeg?auto=compress&cs=tinysrgb&w=1600'); 
                  background-size: cover; 
-                 background-position: center 30%; 
+                 background-position: center; 
                  padding: 80px 20px; 
                  border-radius: 16px;
                  box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-        <div style="background: linear-gradient(135deg, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.6) 100%); 
+        <div style="background: linear-gradient(135deg, rgba(0,0,0,0.85) 0%, rgba(0,20,40,0.8) 100%); 
                     padding: 40px; 
                     border-radius: 12px;
-                    backdrop-filter: blur(2px);">
+                    backdrop-filter: blur(3px);">
           <h1 style="color: #00FFD1; 
                      font-size: 3em; 
                      margin: 0;
-                     text-shadow: 0 0 15px rgba(0,255,209,0.5);
+                     text-shadow: 0 0 20px rgba(0,255,209,0.8);
                      font-family: 'Courier New', monospace;">
-            ⚡ Luis Felipe Ferreira ⚡
+            Luis Felipe Ferreira
           </h1>
           <p style="color: #E0E0E0; 
                     font-size: 1.3em; 
@@ -31,7 +31,7 @@
             <code>"Transformando café em código ☕ → 💻"</code>
           </p>
         </div>
-      </td>
+      </tr>
     </tr>
   </table>
 </div>
