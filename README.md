@@ -67,13 +67,6 @@ Aprimorando meus conhecimentos em desenvolvimento de software através do DevClu
 <br/>
 <br/>
 
-## 📫 Vamos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-ferreira-141a6a216/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luisfelipe207)
-<br/>
-<br/>
-
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
@@ -85,7 +78,7 @@ Aprimorando meus conhecimentos em desenvolvimento de software através do DevClu
   
   <img 
     alt="Activity Graph" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=luisfelipe207&theme=tokyonight&hide_border=true&area=true&custom_title=Hist%C3%B3rico%20de%20Contribui%C3%A7%C3%B5es" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=luisfelipe207&hide_border=true&area=true&custom_title=Hist%C3%B3rico%20de%20Contribui%C3%A7%C3%B5es&bg_color=58A6FF&color=FFFFFF&line=93C5FD&point=BFDBFE&area_color=2563EB" 
     width="100%"
   />
   
