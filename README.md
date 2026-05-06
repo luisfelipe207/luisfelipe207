@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="BannerFuturista.jpg" alt="Banner Luis Felipe - Desenvolvedor de Software" width="100%" style="max-width: 800px; height: auto;" />
+</div>
 
 # 👋 Olá, eu sou Luis Felipe Ferreira
 
