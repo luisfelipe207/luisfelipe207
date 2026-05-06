@@ -1,3 +1,43 @@
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" 
+          style="background-image: url('https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=1600'); 
+                 background-size: cover; 
+                 background-position: center 30%; 
+                 padding: 80px 20px; 
+                 border-radius: 16px;
+                 box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+        <div style="background: linear-gradient(135deg, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.6) 100%); 
+                    padding: 40px; 
+                    border-radius: 12px;
+                    backdrop-filter: blur(2px);">
+          <h1 style="color: #00FFD1; 
+                     font-size: 3em; 
+                     margin: 0;
+                     text-shadow: 0 0 15px rgba(0,255,209,0.5);
+                     font-family: 'Courier New', monospace;">
+            ⚡ Luis Felipe Ferreira ⚡
+          </h1>
+          <p style="color: #E0E0E0; 
+                    font-size: 1.3em; 
+                    margin-top: 15px;
+                    letter-spacing: 2px;">
+            💻 <strong>Software Developer in Progress</strong> 💻
+          </p>
+          <p style="color: #58A6FF; 
+                    font-size: 0.9em; 
+                    margin-top: 20px;">
+            <code>"Transformando café em código ☕ → 💻"</code>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 # 👋 Olá, eu sou Luis Felipe Ferreira
 
 ## Sobre mim
@@ -15,63 +55,16 @@ Aprimorando meus conhecimentos em desenvolvimento de software através do DevClu
 
 ## 🚀 Tecnologias que uso
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<br/>
+<div align="center">
+  <img alt="HTML" title="HTML" width="40px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="40px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="React" title="React" width="40px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Git" title="Git" width="40px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Python" title="Python" width="40px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="C++" title="C++" width="40px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+</div>
+
 <br/>
 
 ## 📊 Estatísticas e Atividade
@@ -83,15 +76,27 @@ Aprimorando meus conhecimentos em desenvolvimento de software através do DevClu
     src="https://streak-stats.demolab.com/?user=luisfelipe207&theme=tokyonight&hide_border=true&locale=pt_BR" 
   />
   
+  <br/>
+  
   <img 
     alt="Activity Graph" 
     src="https://github-readme-activity-graph.vercel.app/graph?username=luisfelipe207&hide_border=true&area=true&custom_title=Hist%C3%B3rico%20de%20Contribui%C3%A7%C3%B5es&bg_color=58A6FF&color=FFFFFF&line=93C5FD&point=BFDBFE&area_color=2563EB" 
     width="100%"
   />
   
+  <br/>
+  
   <img 
     alt="Profile Summary" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisfelipe207&theme=tokyonight" 
     width="100%"
   />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <i>⭐ Se você gosta do meu trabalho, considere me seguir! ⭐</i>
 </div>
