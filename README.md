@@ -74,17 +74,24 @@ Aprimorando meus conhecimentos em desenvolvimento de software através do DevClu
 <br/>
 <br/>
 
-## 📊 Estatísticas
+## 📊 Estatísticas e Atividade
 
 <div align="center">
   <img 
+    alt="GitHub Streak" 
     height="200" 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=luisfelipe207&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://streak-stats.demolab.com/?user=luisfelipe207&theme=tokyonight&hide_border=true&locale=pt_BR" 
   />
+  
   <img 
-    height="200" 
-    alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipe207&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Activity Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=luisfelipe207&theme=tokyonight&hide_border=true&area=true&custom_title=Hist%C3%B3rico%20de%20Contribui%C3%A7%C3%B5es" 
+    width="100%"
+  />
+  
+  <img 
+    alt="Profile Summary" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisfelipe207&theme=tokyonight" 
+    width="100%"
   />
 </div>
