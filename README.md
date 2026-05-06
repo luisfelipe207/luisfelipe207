@@ -76,20 +76,15 @@ Aprimorando meus conhecimentos em desenvolvimento de software através do DevClu
 
 ## 📊 Estatísticas
 
-<p>
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    alt="GitHub Stats" 
     src="https://github-readme-stats.vercel.app/api?username=luisfelipe207&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipe207&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="200" 
+    alt="Top Langs" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipe207&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+</div>
